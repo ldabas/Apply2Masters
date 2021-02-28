@@ -8,8 +8,8 @@ After the user fills out the typeform on our frontend, our backend checks their 
 # Example
 For user who answered the following questions on our website,
 
-In which country are you a citizen? USA
-Will you have a bachelor's degree by the time you start the program? YES
+In which country are you a citizen? USA<br>
+Will you have a bachelor's degree by the time you start the program? YES<br>
 What’s your highest degree earned? BACHELOR'S
 In what language did you earn your highest degree? ENGLISH
 Have you taken the GMAT exam? YES
